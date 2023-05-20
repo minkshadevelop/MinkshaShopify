@@ -1,1 +1,20 @@
-{"sections":{"e1aa7c6c-41de-4de1-82f8-199d3feaff82":{"type":"slideshow","blocks":{"839e8221-83cc-4471-a6d5-ad79a38a9be9":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/three-images.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"template--18938816069930__e1aa7c6c-41de-4de1-82f8-199d3feaff82-1682880547c9aaea97-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/main-banner_ba9faf59-8cd8-4d44-9839-3d6c952e5242.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"template--18938816069930__e1aa7c6c-41de-4de1-82f8-199d3feaff82-1682880547c9aaea97-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/ghee_dc63f9f7-870f-420c-896b-3aa8d6db3cef.png","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["839e8221-83cc-4471-a6d5-ad79a38a9be9","template--18938816069930__e1aa7c6c-41de-4de1-82f8-199d3feaff82-1682880547c9aaea97-0","template--18938816069930__e1aa7c6c-41de-4de1-82f8-199d3feaff82-1682880547c9aaea97-1"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":true,"change_slides_speed":5,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"featured_collection":{"type":"featured-collection","settings":{"title":"<strong>Featured products<\/strong>","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":2,"columns_desktop":2,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"inverse","image_ratio":"adapt","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":44,"padding_bottom":36}},"611fade4-6a74-498c-a13c-1ecd1754ba40":{"type":"slideshow","settings":{"layout":"grid","slide_height":"medium","slider_visual":"counter","auto_rotate":false,"change_slides_speed":3,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"efeea188-04a2-4ae1-a0ed-bbdd239bd540":{"type":"image-banner","settings":{"image":"shopify:\/\/shop_images\/main-banner_0f97c9fa-9d68-497c-85d9-574944a151a6.jpg","image_overlay_opacity":50,"image_height":"adapt","desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}}},"order":["e1aa7c6c-41de-4de1-82f8-199d3feaff82","featured_collection","611fade4-6a74-498c-a13c-1ecd1754ba40","efeea188-04a2-4ae1-a0ed-bbdd239bd540"]}
+{
+  "sections": {
+    "611fade4-6a74-498c-a13c-1ecd1754ba40": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "611fade4-6a74-498c-a13c-1ecd1754ba40"
+  ]
+}
